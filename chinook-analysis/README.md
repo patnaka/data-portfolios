@@ -34,7 +34,7 @@ Analyze the Chinook music store database using SQL to uncover useful business in
    - Created interactive dashboard with KPLs, pie charts, map, and time series graphs
 
 **Colab Notebook:** [View Code](https://colab.research.google.com/drive/1envLnCs3NegPiYiNw1Q6GxbWqlUNKENg)  
-**Interactive Dashboard:** [View Dashboard](https://lookerstudio.google.com/reporting/1f54236b-12fd-4ceb-ad4c-0f7cdde85901/page/gWgOF)
+**Dashboard:** [View Dashboard](https://lookerstudio.google.com/reporting/1f54236b-12fd-4ceb-ad4c-0f7cdde85901/page/gWgOF)
 
 ---
 
