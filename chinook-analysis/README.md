@@ -18,7 +18,7 @@ Analyze the Chinook music store database using SQL to uncover useful business in
 ## 🧩 Process
 
 1. **Data Import & Exploration:** 
-   - Source: [View Dataset]9https://www.sqlitetutorial.net/sqlite-sample-database/)
+   - Source: [View Dataset](https://www.sqlitetutorial.net/sqlite-sample-database/)
      
 1. **Querying with SQL (in Google Colab):**
    - Connected to `chinook.db` using `sqlite3`
