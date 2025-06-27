@@ -7,7 +7,6 @@
 ## 🎯 Objective
 
 The goal of this project is to analyze Adidas sales data in the United States using an interactive dashboard.  
-This project is designed as a showcase of data cleaning, analysis, and visualization skills suitable for a **Junior Data Analyst** portfolio.
 
 ---
 
