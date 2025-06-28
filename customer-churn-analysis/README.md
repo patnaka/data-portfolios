@@ -10,7 +10,7 @@ Analyze customer data and predict customer churn for a telecommunications compan
 ## 📊 Dataset
 - **Source:** [Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
 
---
+---
 
 ## 🛠 Tools Used
 
@@ -27,7 +27,6 @@ Analyze customer data and predict customer churn for a telecommunications compan
 5. Build Logistic Regression Model: Create and train the Logistic Regression model using the training data.
 6. Evaluate Model Performance: Using accuracy, classification report, and confusion matrix.
 
-## 📎 Related Links
 **Google Colab Notebook:** [View Project](https://colab.research.google.com/github/patnaka/data-portfolios/blob/main/customer-churn-analysis/telco_customer_churn_prediction.ipynb)
 
 ---
