@@ -10,7 +10,7 @@ Predict house prices based on property features using Linear Regression. This he
 ## 📊 Dataset
 - **Source:** [Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
 
---
+---
 
 ## 🛠 Tools Used
 
@@ -27,7 +27,7 @@ Predict house prices based on property features using Linear Regression. This he
 5. Build Linear Regression Model: Create and train the Linear Regression model using the training data.
 6. Evaluate Model Performance: Using MAE, MSE, RMSE, and R-squared.
 
---
+---
 
 ## 📎 Related Links
 **Google Colab Notebook:** [View Project](https://colab.research.google.com/github/patnaka/data-portfolios/blob/main/house_price_analysis/House_price_prediction.ipynb)
