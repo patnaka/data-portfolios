@@ -30,6 +30,7 @@ This repository contains my mini projects using free, real-world datasets. Each 
 
 ## 📫 Contact  
 Email: narue.pat2000@gmail.com 
+
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/narueporn-jittarom-9b5b40283/)
 
 Thank you for visiting my portfolio!
