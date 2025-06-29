@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Narueporn Jittarom | Junior Data Analyst
 
-Hi! I'm Narueporn. I have a strong interest in data and enjoy improving my data analysis skills to create value from data. This portfolio showcases some of my mini projects to support my application for a Junior Data Analyst role, where I can grow, learn, and apply my skills to help drive data-driven decisions.
+Hi! I'm Narueporn. I have a strong interest in data and enjoy improving my data analysis skills to create value from data. This portfolio showcases some of my mini projects to support my application for a Junior Data Analyst role where I can grow, learn, and apply my skills to help drive data-driven decisions.
 
 ---
 
