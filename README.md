@@ -10,7 +10,7 @@ This repository contains my mini projects using free, real-world datasets. Each 
 ---
 
 ## 🛠 Tools & Skills  
-- **Spreadsheet** (Excel/Google Sheets)  
+- **Spreadsheets** (Excel/Google Sheets)  
 - **SQL**  
 - **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn)  
 - **R** 
