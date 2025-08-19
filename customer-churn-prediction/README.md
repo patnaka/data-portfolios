@@ -31,6 +31,11 @@ Analyze customer data and predict customer churn for a telecommunications compan
 
 ---
 
+## 🔰 Insights
+- Location and house size were the most significant factors affecting price.
+
+---
+
 Created by **Narueporn J.** | For Data Analyst Portfolio | Feel free to connect or leave feedback! ☺
 
 
