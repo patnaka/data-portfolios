@@ -31,6 +31,11 @@ Predict house prices based on property features using Linear Regression. This he
 
 ---
 
+## 🔰 Insights
+- Customers with monthly contracts showed a higher churn rate compared to those on yearly plans.
+
+---
+
 Created by **Narueporn J.** | For Data Analyst Portfolio | Feel free to connect or leave feedback! ☺
 
 
