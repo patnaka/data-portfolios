@@ -1,7 +1,5 @@
 # 💽 Chinook SQL Data Analysis Project
 
-![Dashboard Preview](./Chinook_Dashboard.pdf)
-
 ---
 
 ## 🎯 Objective
