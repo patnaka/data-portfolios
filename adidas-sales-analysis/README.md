@@ -40,6 +40,7 @@ The goal of this project is to analyze Adidas sales data in the United States us
 
 ## 🔰 Insights
 
+- Sales were influenced by seasonality, and certain product categories outperformed the average.
 - **Men’s Street Footwear** generated the highest revenue
 - Sales increased significantly in 2021 compared to 2020
 - The **Western region** showed higher sales concentration
