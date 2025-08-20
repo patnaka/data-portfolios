@@ -29,10 +29,6 @@ Analyze customer data and predict customer churn for a telecommunications compan
 
 **Google Colab Notebook:** [View Project](https://colab.research.google.com/github/patnaka/data-portfolios/blob/main/customer-churn-analysis/telco_customer_churn_prediction.ipynb)
 
----
-
-## 🔰 Insights
-- Location and house size were the most significant factors affecting price.
 
 ---
 
