@@ -25,7 +25,7 @@ Dataset: [Kaggle Link](https://www.kaggle.com/datasets/faresashraf1001/supermark
 * **Google Slides** สำหรับทำ presentation & storytelling ของ project ให้เข้าใจได้ง่ายขึ้น
 
 ## 🌄 Report Preview: Supermarket Sales
-![Report Preview](./Supermarket Sales Report.pdf)
+![Report Preview](./supermarket-sales-analysis/Supermarket Sales Report.pdf)
 View Presentation: [Supermarket Sales Presentation](https://docs.google.com/presentation/d/1YZsdNW8JvuJZGjVsojj8t3gujRozNylPAm6B0jq8uOo/edit?usp=sharing)
 
 ## 🧩 Key Insights
